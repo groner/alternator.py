@@ -13,10 +13,10 @@ with open('README.rst') as fh:
 
 setup(
     name='alternator',
-    version='0.1',
+    version='0.1.1',
     description='Create asynchronous generators from coroutines',
     long_description=README,
-    url='https://github.com/groner/alternator/',
+    url='https://github.com/groner/alternator.py/',
     author='Kai Groner',
     author_email='kai@gronr.com',
     license='BSD',
